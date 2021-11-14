@@ -1,0 +1,41 @@
+.humun-product {
+    width: 300px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.humun-product .item-image img {
+    width: 100%;
+}
+
+.humun-woo-product {
+    width: 150px;
+    padding: 10px;
+}
+
+.wooImageSelect {
+    max-width: 200px;
+    height: auto;
+}
+
+#woo-products {
+    display: none;
+}
+
+#woo_item_selector {
+    width: 100%;
+}
+
+#updateProductLink {
+    display: none;
+}
+
+#connect_humun {
+    position: absolute;
+    right: 20px;
+    top: 50px;
+}
+
+#humun-admin-page-title {
+    margin-top: 20px;
+}
